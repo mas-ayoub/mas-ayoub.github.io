@@ -1,0 +1,55 @@
+body {background-image: https://static1.squarespace.com/static/554b0791e4b079203edb2f44/58383471cd0f68eb00531cc7/59008912bebafb0b142533de/1495212198906/Butler_Archive_Digital_Madrid_02.jpg?format=750w
+
+}
+
+
+
+h1 {
+	font-size: 100px;
+	color: #8B8589;
+	margin-left: 100px;
+	text-align: center;
+
+}
+
+ul	{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	 display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+img{width: 560px; 
+	height: 315px;
+	margin-left: 125px;
+
+
+
+}
+form {margin-left: 125px;
+
+
+}
+
+h2 {margin-left: 125px;
+
+}
+
+
